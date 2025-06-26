@@ -1,0 +1,24 @@
+[10:16:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:16:42] [ServerMain/INFO]: Loaded 1370 recipes
+[10:16:42] [ServerMain/INFO]: Loaded 1481 advancements
+[10:16:42] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[10:16:42] [Server thread/INFO]: Loading properties
+[10:16:42] [Server thread/INFO]: Default game type: SURVIVAL
+[10:16:42] [Server thread/INFO]: Generating keypair
+[10:16:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:16:42] [Server thread/INFO]: Using epoll channel type
+[10:16:42] [Server thread/INFO]: Preparing level "world"
+[10:16:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:16:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:16:46] [Server thread/INFO]: Time elapsed: 3574 ms
+[10:16:46] [Server thread/INFO]: Done (3.954s)! For help, type "help"
+[10:17:45] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[10:17:47] [Server thread/INFO]: Yamen9z[/10.147.20.81:60298] logged in with entity id 64 at (-501528.5373226696, 64.0, -293235.9594599439)
+[10:17:47] [Server thread/INFO]: Yamen9z joined the game
