@@ -2328,7 +2328,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-06-21 20:00:03 +0000",
-      "minecraft:chicken": "2025-06-21 20:01:14 +0000"
+      "minecraft:chicken": "2025-06-21 20:01:14 +0000",
+      "minecraft:sheep": "2025-06-26 15:02:13 +0000"
     },
     "done": false
   },
@@ -4048,6 +4049,18 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-06-26 12:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-26 14:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-26 14:57:56 +0000"
     },
     "done": true
   },
