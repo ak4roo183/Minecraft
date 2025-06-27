@@ -67,3 +67,20 @@
 [10:48:07] [Server thread/INFO]: [9zqi: Set the weather to clear]
 [10:48:45] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
 [11:10:52] [Server thread/WARN]: 9zqi moved too quickly! 7.911505131924059,5.850000232457916,-4.228025429765694
+[11:17:55] [Server thread/WARN]: 9zqi moved too quickly! 0.18044950295006856,3.7500001488115657,-9.836509257729631
+[11:19:13] [Server thread/WARN]: 9zqi moved too quickly! -7.972422688791994,3.750000149011612,-5.061319981701672
+[11:19:48] [Server thread/WARN]: 9zqi moved too quickly! -6.6031600187998265,-1.0,-7.599617655738257
+[11:21:06] [Server thread/WARN]: 9zqi moved too quickly! 3.455491550732404,0.7531999805212024,-9.512496607087087
+[11:21:28] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
+[11:21:37] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
+[11:24:36] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
+[11:25:01] [Server thread/WARN]: 9zqi was kicked for floating too long!
+[11:25:01] [Server thread/INFO]: 9zqi lost connection: Flying is not enabled on this server
+[11:25:01] [Server thread/INFO]: 9zqi left the game
+[11:25:01] [Server thread/WARN]: handleDisconnection() called twice
+[11:25:04] [User Authenticator #4/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[11:25:05] [Server thread/INFO]: 9zqi[/10.147.20.81:58723] logged in with entity id 33489 at (-501509.94472965994, 64.16610926093821, -293304.16038598085)
+[11:25:05] [Server thread/INFO]: 9zqi joined the game
+[11:28:10] [Server thread/WARN]: 9zqi moved too quickly! -8.637656679260544,0.0,-5.212662928272039
+[11:30:46] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
+[11:30:58] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
