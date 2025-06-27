@@ -324,3 +324,6 @@
 [13:31:00] [Server thread/WARN]: 9zqi moved too quickly! 8.812776543723885,-4.258056094256176,-2.2550389608368278
 [13:34:17] [Server thread/INFO]: 9zqi lost connection: Disconnected
 [13:34:17] [Server thread/INFO]: 9zqi left the game
+[14:12:53] [Server thread/INFO]: NoUR_455 lost connection: Timed out
+[14:12:53] [Server thread/INFO]: NoUR_455 left the game
+[14:13:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
