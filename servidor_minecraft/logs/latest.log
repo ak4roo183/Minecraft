@@ -1,29 +1,24 @@
-[17:14:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:14:45] [ServerMain/INFO]: Loaded 1370 recipes
-[17:14:45] [ServerMain/INFO]: Loaded 1481 advancements
-[17:14:45] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[17:14:45] [Server thread/INFO]: Loading properties
-[17:14:45] [Server thread/INFO]: Default game type: SURVIVAL
-[17:14:45] [Server thread/INFO]: Generating keypair
-[17:14:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:14:45] [Server thread/INFO]: Using epoll channel type
-[17:14:45] [Server thread/INFO]: Preparing level "world"
-[17:14:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:14:50] [Server thread/INFO]: Time elapsed: 4416 ms
-[17:14:50] [Server thread/INFO]: Done (4.780s)! For help, type "help"
-[17:15:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:19:01] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[17:19:02] [Server thread/INFO]: 9zqi[/10.147.20.84:49777] logged in with entity id 9 at (-501528.6970333987, 64.0, -293236.7136196955)
-[17:19:02] [Server thread/INFO]: 9zqi (formerly known as Yamen9z) joined the game
-[17:30:21] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[17:30:21] [Server thread/INFO]: 9zqi left the game
-[17:31:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:28:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:28:05] [ServerMain/INFO]: Loaded 1370 recipes
+[05:28:05] [ServerMain/INFO]: Loaded 1481 advancements
+[05:28:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:28:05] [Server thread/INFO]: Loading properties
+[05:28:05] [Server thread/INFO]: Default game type: SURVIVAL
+[05:28:05] [Server thread/INFO]: Generating keypair
+[05:28:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:28:05] [Server thread/INFO]: Using epoll channel type
+[05:28:05] [Server thread/INFO]: Preparing level "world"
+[05:28:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:28:09] [Server thread/INFO]: Time elapsed: 3210 ms
+[05:28:09] [Server thread/INFO]: Done (3.678s)! For help, type "help"
+[05:29:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:30:42] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[05:30:43] [Server thread/INFO]: 9zqi[/10.147.20.84:50177] logged in with entity id 8 at (-501523.0126604162, 64.0, -293248.7913249238)
+[05:30:43] [Server thread/INFO]: 9zqi joined the game
