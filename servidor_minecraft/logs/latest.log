@@ -54,3 +54,7 @@
 [09:40:56] [Server thread/INFO]: 9zqi lost connection: Disconnected
 [09:40:56] [Server thread/INFO]: 9zqi left the game
 [09:41:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:28:44] [User Authenticator #3/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[10:28:44] [Server thread/INFO]: 9zqi[/10.147.20.81:56086] logged in with entity id 18097 at (-501520.0122814589, 63.9375, -293259.6763755172)
+[10:28:44] [Server thread/INFO]: 9zqi joined the game
+[10:29:15] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
