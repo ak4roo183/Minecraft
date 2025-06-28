@@ -4608,5 +4608,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-06-28 15:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-28 15:59:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
