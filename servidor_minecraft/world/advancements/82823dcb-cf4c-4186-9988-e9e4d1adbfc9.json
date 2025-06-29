@@ -3425,5 +3425,11 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-29 11:24:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
