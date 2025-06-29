@@ -135,3 +135,43 @@
 [13:59:30] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
 [14:00:21] [Server thread/WARN]: 9zqi moved too quickly! 7.656436287332326,0.7531999805212024,6.85641138907522
 [14:03:33] [Server thread/INFO]: [its_yusuf: Teleported its_yusuf to -4499.500000, 72.000000, -989.500000]
+[14:07:17] [Server thread/INFO]: 9zqi was killed
+[14:07:17] [Server thread/INFO]: [9zqi: Killed 9zqi]
+[14:08:06] [Server thread/INFO]: its_yusuf has made the advancement [Not Today, Thank You]
+[14:10:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[14:11:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501400, y=63, z=-294146} ji{x=-501400, y=63, z=-294144}
+[14:11:37] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[14:13:47] [Server thread/INFO]: [9zqi: Teleported 9zqi to -201502.500000, 70.000000, -293233.500000]
+[14:14:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501502.500000, 70.000000, -293233.500000]
+[14:14:47] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[14:21:28] [Server thread/INFO]: its_yusuf has made the advancement [A Seedy Place]
+[14:25:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[14:26:05] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[14:27:24] [Server thread/WARN]: 9zqi moved too quickly! -2.1838253711466677,-1.127890238205481,-9.912196198885795
+[14:27:27] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[14:30:16] [Server thread/WARN]: 9zqi was kicked for floating too long!
+[14:30:16] [Server thread/INFO]: 9zqi lost connection: Flying is not enabled on this server
+[14:30:16] [Server thread/INFO]: 9zqi left the game
+[14:30:16] [Server thread/WARN]: handleDisconnection() called twice
+[14:30:21] [User Authenticator #6/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[14:30:21] [Server thread/INFO]: 9zqi[/10.147.20.81:54093] logged in with entity id 78436 at (-4425.751187894584, 65.24918707874468, -981.6752478204395)
+[14:30:21] [Server thread/INFO]: 9zqi joined the game
+[14:31:20] [Server thread/INFO]: its_yusuf lost connection: Disconnected
+[14:31:20] [Server thread/INFO]: its_yusuf left the game
+[14:33:15] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -1959.500000, -10.000000, -229.500000]
+[14:33:57] [Server thread/INFO]: 9zqi has reached the goal [You Need a Mint]
+[14:34:09] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[14:35:16] [Server thread/WARN]: 9zqi moved too quickly! 10.088094977978699,-0.26636799395751964,0.9923107216075095
+[14:36:16] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[14:36:21] [Server thread/INFO]: LEON_445 has made the advancement [Under Lock and Key]
+[14:37:15] [Server thread/INFO]: 9zqi has made the advancement [Under Lock and Key]
+[14:39:06] [Server thread/INFO]: LEON_445 lost connection: Disconnected
+[14:39:06] [Server thread/INFO]: LEON_445 left the game
+[14:43:28] [Server thread/WARN]: 9zqi was kicked for floating too long!
+[14:43:28] [Server thread/INFO]: 9zqi lost connection: Flying is not enabled on this server
+[14:43:28] [Server thread/INFO]: 9zqi left the game
+[14:43:31] [User Authenticator #7/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[14:43:32] [Server thread/INFO]: 9zqi[/10.147.20.81:54312] logged in with entity id 81463 at (-1987.0242024815848, -21.99866402088785, -222.08532522896323)
+[14:43:32] [Server thread/INFO]: 9zqi joined the game
+[14:44:00] [Server thread/INFO]: [9zqi: Set own game mode to Spectator Mode]
+[14:44:32] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
