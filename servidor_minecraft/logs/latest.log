@@ -1,21 +1,28 @@
-[09:07:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:07:07] [ServerMain/INFO]: Loaded 1370 recipes
-[09:07:07] [ServerMain/INFO]: Loaded 1481 advancements
-[09:07:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[09:07:08] [Server thread/INFO]: Loading properties
-[09:07:08] [Server thread/INFO]: Default game type: SURVIVAL
-[09:07:08] [Server thread/INFO]: Generating keypair
-[09:07:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:07:08] [Server thread/INFO]: Using epoll channel type
-[09:07:08] [Server thread/INFO]: Preparing level "world"
-[09:07:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:07:12] [Server thread/INFO]: Time elapsed: 3439 ms
-[09:07:12] [Server thread/INFO]: Done (3.780s)! For help, type "help"
-[09:08:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:50:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:50:39] [ServerMain/INFO]: Loaded 1370 recipes
+[10:50:39] [ServerMain/INFO]: Loaded 1481 advancements
+[10:50:39] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[10:50:39] [Server thread/INFO]: Loading properties
+[10:50:39] [Server thread/INFO]: Default game type: SURVIVAL
+[10:50:39] [Server thread/INFO]: Generating keypair
+[10:50:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:50:39] [Server thread/INFO]: Using epoll channel type
+[10:50:39] [Server thread/INFO]: Preparing level "world"
+[10:50:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:50:45] [Server thread/INFO]: Time elapsed: 5255 ms
+[10:50:45] [Server thread/INFO]: Done (5.663s)! For help, type "help"
+[10:51:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:00:01] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[11:00:03] [Server thread/INFO]: 9zqi[/10.147.20.84:54338] logged in with entity id 9 at (-501448.98861718824, 63.0, -293289.23030094366)
+[11:00:03] [Server thread/INFO]: 9zqi joined the game
