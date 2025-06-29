@@ -1,42 +1,21 @@
-[15:38:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:39:01] [ServerMain/INFO]: Loaded 1370 recipes
-[15:39:01] [ServerMain/INFO]: Loaded 1481 advancements
-[15:39:01] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:39:01] [Server thread/INFO]: Loading properties
-[15:39:01] [Server thread/INFO]: Default game type: SURVIVAL
-[15:39:01] [Server thread/INFO]: Generating keypair
-[15:39:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:39:02] [Server thread/INFO]: Using epoll channel type
-[15:39:02] [Server thread/INFO]: Preparing level "world"
-[15:39:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:05] [Server thread/INFO]: Time elapsed: 3422 ms
-[15:39:05] [Server thread/INFO]: Done (3.798s)! For help, type "help"
-[15:40:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:42:08] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[15:42:09] [Server thread/INFO]: 9zqi[/10.147.20.84:53498] logged in with entity id 9 at (-501525.44618995406, 59.0, -293235.6999999881)
-[15:42:09] [Server thread/INFO]: 9zqi joined the game
-[15:49:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4963.500000, -26.000000, -1042.500000]
-[15:54:58] [Server thread/INFO]: 9zqi was killed
-[15:54:58] [Server thread/INFO]: [9zqi: Killed 9zqi]
-[15:55:02] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4963.500000, -26.000000, -1042.500000]
-[16:59:54] [Server thread/INFO]: 9zqi experienced kinetic energy
-[17:19:55] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
-[17:20:26] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[17:21:34] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
-[17:22:20] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[17:22:32] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
-[17:22:48] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[17:23:22] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
-[17:23:41] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[17:26:07] [Server thread/INFO]: [9zqi: Set own game mode to Creative Mode]
-[17:26:23] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[17:29:42] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[17:29:42] [Server thread/INFO]: 9zqi left the game
-[17:30:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:07:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:07:07] [ServerMain/INFO]: Loaded 1370 recipes
+[09:07:07] [ServerMain/INFO]: Loaded 1481 advancements
+[09:07:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[09:07:08] [Server thread/INFO]: Loading properties
+[09:07:08] [Server thread/INFO]: Default game type: SURVIVAL
+[09:07:08] [Server thread/INFO]: Generating keypair
+[09:07:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:07:08] [Server thread/INFO]: Using epoll channel type
+[09:07:08] [Server thread/INFO]: Preparing level "world"
+[09:07:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:07:12] [Server thread/INFO]: Time elapsed: 3439 ms
+[09:07:12] [Server thread/INFO]: Done (3.780s)! For help, type "help"
+[09:08:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
