@@ -26,3 +26,14 @@
 [11:00:01] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
 [11:00:03] [Server thread/INFO]: 9zqi[/10.147.20.84:54338] logged in with entity id 9 at (-501448.98861718824, 63.0, -293289.23030094366)
 [11:00:03] [Server thread/INFO]: 9zqi joined the game
+[11:02:28] [Server thread/INFO]: 9zqi lost connection: Disconnected
+[11:02:28] [Server thread/INFO]: 9zqi left the game
+[11:03:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:04:14] [User Authenticator #2/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[11:04:15] [Server thread/INFO]: 9zqi[/10.147.20.84:54522] logged in with entity id 563 at (-501462.977126214, 63.0, -293283.55487901653)
+[11:04:15] [Server thread/INFO]: 9zqi joined the game
+[11:07:05] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[11:07:05] [Server thread/INFO]: LEON_445[/10.147.20.36:50531] logged in with entity id 1195 at (-3975.572388467596, 131.0, 456.2510720506116)
+[11:07:05] [Server thread/INFO]: LEON_445 joined the game
+[11:08:21] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[11:08:52] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
