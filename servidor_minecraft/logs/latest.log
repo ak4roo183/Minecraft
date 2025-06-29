@@ -128,3 +128,10 @@
 [13:40:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to its_yusuf]
 [13:51:55] [Server thread/INFO]: LEON_445 was slain by Zombie
 [13:52:26] [Server thread/INFO]: its_yusuf was slain by Zombie
+[13:55:02] [Server thread/INFO]: Villager coj['Farmer'/62420, l='ServerLevel[world]', x=-501151.94, y=64.00, z=-294135.01] died, message: 'Farmer was slain by Zombie'
+[13:58:46] [User Authenticator #5/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[13:58:47] [Server thread/INFO]: 9zqi[/10.147.20.81:53481] logged in with entity id 63037 at (-501192.1252718804, 69.0, -294116.20106218)
+[13:58:47] [Server thread/INFO]: 9zqi joined the game
+[13:59:30] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[14:00:21] [Server thread/WARN]: 9zqi moved too quickly! 7.656436287332326,0.7531999805212024,6.85641138907522
+[14:03:33] [Server thread/INFO]: [its_yusuf: Teleported its_yusuf to -4499.500000, 72.000000, -989.500000]
