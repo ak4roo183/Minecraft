@@ -42,3 +42,15 @@
 [11:15:53] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501502.500000, 70.000000, -293233.500000]
 [11:21:25] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
 [11:24:16] [Server thread/INFO]: LEON_445 has reached the goal [Sky's the Limit]
+[11:34:39] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[11:35:26] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[11:37:23] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:37:32] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501502.500000, 70.000000, -293233.500000]
+[11:37:34] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[11:40:03] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[11:40:06] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[11:45:23] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:46:04] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[11:48:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-426, y=50, z=-185} ji{x=-425, y=51, z=-186}
+[11:48:25] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
