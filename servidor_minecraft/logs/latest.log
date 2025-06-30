@@ -273,3 +273,31 @@
 [13:41:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63372, y=16, z=-36804} ji{x=-63372, y=17, z=-36799}
 [13:42:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63370, y=14, z=-36761} ji{x=-63372, y=16, z=-36760}
 [13:43:25] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
+[13:56:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63491, y=15, z=-36328} ji{x=-63490, y=15, z=-36329}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:01:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63582, y=14, z=-36300} ji{x=-63583, y=14, z=-36301}
+[14:03:32] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
+[14:04:59] [Server thread/INFO]: <9zqi> -501503 70 -293234
+[14:06:10] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501502.500000, 70.000000, -293233.500000]
+[14:06:14] [Server thread/INFO]: NoUR_455 fell out of the world
+[14:06:20] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501502.500000, 70.000000, -293233.500000]
+[14:08:02] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
+[14:08:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63570, y=16, z=-36195} ji{x=-63571, y=14, z=-36193}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:08:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-63571, y=13, z=-36193} ji{x=-63571, y=16, z=-36194}
+[14:10:19] [Server thread/INFO]: NoUR_455 was killed
+[14:10:19] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[14:10:29] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501502.500000, 70.000000, -293233.500000]
+[14:11:15] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
