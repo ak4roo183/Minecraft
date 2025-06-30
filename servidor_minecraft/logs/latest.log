@@ -72,3 +72,28 @@
 [11:35:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
 [11:36:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -501193.500000, 64.000000, -294112.500000]
 [11:38:34] [Server thread/INFO]: [9zqi: Set the time to 13000]
+[11:39:16] [Server thread/INFO]: NoUR_455 was slain by Zombie
+[11:39:21] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
+[11:39:24] [Server thread/INFO]: Villager coj['Fletcher'/40434, l='ServerLevel[world]', x=-501161.02, y=63.19, z=-294109.50] died, message: 'Fletcher was slain by Zombie'
+[11:39:28] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[11:39:30] [Server thread/INFO]: Villager coj['Fletcher'/40435, l='ServerLevel[world]', x=-501161.02, y=63.19, z=-294109.50] died, message: 'Fletcher was slain by Zombie'
+[11:41:53] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:44:01] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
+[11:44:15] [Server thread/INFO]: [9zqi: Set the time to 13000]
+[11:44:41] [Server thread/INFO]: NoUR_455 was slain by LEON_445
+[11:44:54] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
+[11:45:43] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:46:39] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[11:47:50] [Server thread/INFO]: Villager coj['Fletcher'/40432, l='ServerLevel[world]', x=-501139.57, y=63.00, z=-294143.60] died, message: 'Fletcher was slain by Zombie'
+[11:48:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[11:49:05] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
+[11:49:12] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501193.500000, 70.000000, -294112.500000]
+[11:49:14] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501193.500000, 70.000000, -294112.500000]
+[11:49:19] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501502.500000, 70.000000, -293233.500000]
+[11:51:58] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[11:53:48] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[11:53:48] [Server thread/INFO]: NoUR_455 left the game
+[11:53:54] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[11:53:54] [Server thread/INFO]: NoUR_455[/10.147.20.242:59471] logged in with entity id 49034 at (-4421.035024332779, 64.0, -989.7076858532893)
+[11:53:54] [Server thread/INFO]: NoUR_455 joined the game
+[11:55:56] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4964.070000, -26.000000, -1043.210000]

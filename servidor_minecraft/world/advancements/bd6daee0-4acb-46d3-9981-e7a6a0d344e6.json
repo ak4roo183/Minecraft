@@ -369,16 +369,17 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 12:37:16 +0000",
       "mutton": "2025-06-21 14:56:35 +0000",
-      "apple": "2025-06-21 13:24:00 +0000",
+      "chicken": "2025-06-30 11:49:39 +0000",
       "golden_apple": "2025-06-23 10:52:41 +0000",
-      "cooked_chicken": "2025-06-21 13:00:22 +0000",
       "rotten_flesh": "2025-06-21 12:34:01 +0000",
       "cooked_mutton": "2025-06-21 15:20:31 +0000",
       "salmon": "2025-06-24 14:15:58 +0000",
       "cooked_beef": "2025-06-21 14:36:11 +0000",
       "chorus_fruit": "2025-06-25 11:33:35 +0000",
       "melon_slice": "2025-06-21 12:56:30 +0000",
-      "golden_carrot": "2025-06-25 11:11:22 +0000"
+      "golden_carrot": "2025-06-25 11:11:22 +0000",
+      "apple": "2025-06-21 13:24:00 +0000",
+      "cooked_chicken": "2025-06-21 13:00:22 +0000"
     },
     "done": false
   },
@@ -4111,6 +4112,72 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-06-27 14:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 11:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-30 11:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-30 11:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-30 11:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-30 11:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-30 11:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-30 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-30 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-30 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-30 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-06-30 11:57:51 +0000"
     },
     "done": true
   },
