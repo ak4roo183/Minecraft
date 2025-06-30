@@ -380,7 +380,8 @@
       "melon_slice": "2025-06-21 12:56:30 +0000",
       "golden_carrot": "2025-06-25 11:11:22 +0000",
       "apple": "2025-06-21 13:24:00 +0000",
-      "cooked_chicken": "2025-06-21 13:00:22 +0000"
+      "cooked_chicken": "2025-06-21 13:00:22 +0000",
+      "cooked_cod": "2025-06-30 14:15:16 +0000"
     },
     "done": false
   },
@@ -4179,6 +4180,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-06-30 11:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-30 14:10:48 +0000"
     },
     "done": true
   },
