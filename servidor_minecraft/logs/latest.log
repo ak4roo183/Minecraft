@@ -34,3 +34,16 @@
 [11:55:14] [Server thread/INFO]: 9zqi lost connection: Disconnected
 [11:55:14] [Server thread/INFO]: 9zqi left the game
 [12:15:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4364, y=70, z=-988} ji{x=-4365, y=68, z=-987}
+[12:32:57] [User Authenticator #3/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:32:58] [Server thread/INFO]: 9zqi[/10.147.20.81:54179] logged in with entity id 17694 at (239.27902699709628, 57.0, 19.64703749275017)
+[12:32:58] [Server thread/INFO]: 9zqi joined the game
+[12:35:20] [Server thread/INFO]: 9zqi lost connection: Disconnected
+[12:35:20] [Server thread/INFO]: 9zqi left the game
+[12:48:15] [Server thread/WARN]: NoUR_455 was kicked for floating too long!
+[12:48:15] [Server thread/INFO]: NoUR_455 lost connection: Flying is not enabled on this server
+[12:48:15] [Server thread/INFO]: NoUR_455 left the game
+[12:48:15] [Server thread/WARN]: handleDisconnection() called twice
+[12:48:30] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[12:48:31] [Server thread/INFO]: NoUR_455[/10.147.20.242:54513] logged in with entity id 21636 at (-4420.488101468259, 65.16610926093821, -975.8264722427954)
+[12:48:31] [Server thread/INFO]: NoUR_455 joined the game
+[12:51:18] [Server thread/INFO]: NoUR_455 was doomed to fall by Creeper
