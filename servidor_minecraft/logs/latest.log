@@ -154,3 +154,26 @@
 [15:42:50] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
 [15:44:34] [Server thread/INFO]: NoUR_455 was killed
 [15:44:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[15:48:16] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[15:51:01] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[15:51:06] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:15] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:23] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:35] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:45] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:52] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:51:56] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:52:00] [Server thread/INFO]: 9zqi was slain by LEON_445
+[15:52:11] [Server thread/INFO]: 9zqi lost connection: Disconnected
+[15:52:11] [Server thread/INFO]: 9zqi left the game
+[15:52:16] [User Authenticator #11/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[15:52:17] [Server thread/INFO]: 9zqi[/10.147.20.81:57732] logged in with entity id 101238 at (-501530.66352636646, 69.0, -293237.30285464815)
+[15:52:17] [Server thread/INFO]: 9zqi joined the game
+[15:53:00] [Server thread/INFO]: [9zqi: Teleported 9zqi to NoUR_455]
+[15:53:00] [Server thread/INFO]: NoUR_455 has made the advancement [Bring Home the Beacon]
+[15:53:00] [Server thread/INFO]: 9zqi has made the advancement [Bring Home the Beacon]
+[15:53:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[15:53:29] [Server thread/INFO]: 9zqi was killed
+[15:53:29] [Server thread/INFO]: [9zqi: Killed 9zqi]
+[15:53:39] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[15:53:56] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
