@@ -70,3 +70,20 @@
 [14:22:59] [Server thread/INFO]: NoUR_455[/10.147.20.242:59971] logged in with entity id 41987 at (-4417.017314341891, 64.0, -984.7100822157847)
 [14:22:59] [Server thread/INFO]: NoUR_455 joined the game
 [14:23:02] [Server thread/INFO]: Villager coj['Fletcher'/37180, l='ServerLevel[world]', x=-500859.10, y=67.00, z=-294117.49] died, message: 'Fletcher was slain by LEON_445'
+[14:24:26] [Server thread/INFO]: Villager coj['Fletcher'/37160, l='ServerLevel[world]', x=-500863.49, y=66.00, z=-294109.61] died, message: 'Fletcher was slain by LEON_445'
+[14:28:00] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
+[14:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[14:28:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501168, y=93, z=-294115} ji{x=-501169, y=93, z=-294115}
+[14:33:58] [Server thread/INFO]: NoUR_455 was killed
+[14:33:58] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[14:36:25] [Server thread/INFO]: NoUR_455 has made the advancement [Spooky Scary Skeleton]
+[14:36:34] [Server thread/INFO]: NoUR_455 was killed
+[14:36:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
+[14:37:24] [Server thread/INFO]: LEON_445 was slain by Drowned
+[14:37:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[14:37:56] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
+[14:39:27] [Server thread/INFO]: Villager coj['Villager'/52305, l='ServerLevel[world]', x=-500909.67, y=62.05, z=-294162.84] died, message: 'Villager was slain by Drowned'
+[14:39:30] [Server thread/INFO]: 9zqi lost connection: Disconnected
+[14:39:30] [Server thread/INFO]: 9zqi left the game
+[14:40:34] [Server thread/INFO]: NoUR_455 was killed
+[14:40:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
