@@ -61,3 +61,12 @@
 [13:55:07] [User Authenticator #6/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
 [13:55:08] [Server thread/INFO]: LEON_445[/10.147.20.36:50598] logged in with entity id 32828 at (-501051.61106269935, 73.0, -294091.3000000119)
 [13:55:08] [Server thread/INFO]: LEON_445 joined the game
+[14:05:00] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
+[14:08:06] [Server thread/INFO]: LEON_445 tried to swim in lava
+[14:10:57] [User Authenticator #7/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[14:10:57] [Server thread/INFO]: 9zqi[/10.147.20.81:55877] logged in with entity id 38040 at (243.91213484093913, 57.0, 17.476756338003394)
+[14:10:57] [Server thread/INFO]: 9zqi joined the game
+[14:22:59] [User Authenticator #8/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[14:22:59] [Server thread/INFO]: NoUR_455[/10.147.20.242:59971] logged in with entity id 41987 at (-4417.017314341891, 64.0, -984.7100822157847)
+[14:22:59] [Server thread/INFO]: NoUR_455 joined the game
+[14:23:02] [Server thread/INFO]: Villager coj['Fletcher'/37180, l='ServerLevel[world]', x=-500859.10, y=67.00, z=-294117.49] died, message: 'Fletcher was slain by LEON_445'
