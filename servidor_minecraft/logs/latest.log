@@ -33,3 +33,4 @@
 [11:54:50] [Server thread/INFO]: 9zqi joined the game
 [11:55:14] [Server thread/INFO]: 9zqi lost connection: Disconnected
 [11:55:14] [Server thread/INFO]: 9zqi left the game
+[12:15:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4364, y=70, z=-988} ji{x=-4365, y=68, z=-987}
