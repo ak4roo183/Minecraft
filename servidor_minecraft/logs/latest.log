@@ -21,3 +21,8 @@
 [11:00:49] [Server thread/INFO]: Time elapsed: 4454 ms
 [11:00:49] [Server thread/INFO]: Done (4.835s)! For help, type "help"
 [11:01:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:12:58] [User Authenticator #1/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[11:12:59] [Server thread/INFO]: NoUR_455[/10.147.20.242:53734] logged in with entity id 9 at (-501137.4512309411, 64.0, -294138.938312373)
+[11:12:59] [Server thread/INFO]: NoUR_455 joined the game
+[11:13:25] [Server thread/WARN]: NoUR_455 moved wrongly!
+[11:16:35] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
