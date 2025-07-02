@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-06-21 12:46:43 +0000",
       "minecraft:taiga": "2025-06-22 18:42:52 +0000",
       "minecraft:deep_ocean": "2025-06-21 13:16:07 +0000",
+      "minecraft:lush_caves": "2025-07-02 13:30:07 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 18:31:32 +0000",
       "minecraft:ice_spikes": "2025-06-24 08:20:31 +0000",
       "minecraft:frozen_ocean": "2025-06-30 11:19:28 +0000",
@@ -31,6 +32,7 @@
       "minecraft:badlands": "2025-06-23 13:12:07 +0000",
       "minecraft:flower_forest": "2025-06-21 13:11:35 +0000",
       "minecraft:beach": "2025-06-21 13:04:09 +0000",
+      "minecraft:dark_forest": "2025-07-02 13:28:26 +0000",
       "minecraft:sparse_jungle": "2025-06-21 12:56:27 +0000",
       "minecraft:river": "2025-06-21 12:54:22 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 19:54:01 +0000",
@@ -3843,6 +3845,30 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-07-01 15:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 13:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 13:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 13:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-07-02 13:23:35 +0000"
     },
     "done": true
   },
