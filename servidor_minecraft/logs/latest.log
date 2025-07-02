@@ -1,210 +1,27 @@
-[11:00:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:00:44] [ServerMain/INFO]: Loaded 1370 recipes
-[11:00:44] [ServerMain/INFO]: Loaded 1481 advancements
-[11:00:44] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[11:00:44] [Server thread/INFO]: Loading properties
-[11:00:44] [Server thread/INFO]: Default game type: SURVIVAL
-[11:00:44] [Server thread/INFO]: Generating keypair
-[11:00:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:00:44] [Server thread/INFO]: Using epoll channel type
-[11:00:44] [Server thread/INFO]: Preparing level "world"
-[11:00:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[11:00:49] [Server thread/INFO]: Time elapsed: 4454 ms
-[11:00:49] [Server thread/INFO]: Done (4.835s)! For help, type "help"
-[11:01:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:12:58] [User Authenticator #1/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[11:12:59] [Server thread/INFO]: NoUR_455[/10.147.20.242:53734] logged in with entity id 9 at (-501137.4512309411, 64.0, -294138.938312373)
-[11:12:59] [Server thread/INFO]: NoUR_455 joined the game
-[11:13:25] [Server thread/WARN]: NoUR_455 moved wrongly!
-[11:16:35] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
-[11:21:58] [Server thread/INFO]: [NoUR_455: Set own game mode to Creative Mode]
-[11:22:42] [Server thread/INFO]: [NoUR_455: Set own game mode to Survival Mode]
-[11:54:49] [User Authenticator #2/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[11:54:50] [Server thread/INFO]: 9zqi[/10.147.20.81:53546] logged in with entity id 9878 at (244.41713573560213, 57.0, 19.61310375739211)
-[11:54:50] [Server thread/INFO]: 9zqi joined the game
-[11:55:14] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[11:55:14] [Server thread/INFO]: 9zqi left the game
-[12:15:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4364, y=70, z=-988} ji{x=-4365, y=68, z=-987}
-[12:32:57] [User Authenticator #3/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[12:32:58] [Server thread/INFO]: 9zqi[/10.147.20.81:54179] logged in with entity id 17694 at (239.27902699709628, 57.0, 19.64703749275017)
-[12:32:58] [Server thread/INFO]: 9zqi joined the game
-[12:35:20] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[12:35:20] [Server thread/INFO]: 9zqi left the game
-[12:48:15] [Server thread/WARN]: NoUR_455 was kicked for floating too long!
-[12:48:15] [Server thread/INFO]: NoUR_455 lost connection: Flying is not enabled on this server
-[12:48:15] [Server thread/INFO]: NoUR_455 left the game
-[12:48:15] [Server thread/WARN]: handleDisconnection() called twice
-[12:48:30] [User Authenticator #4/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[12:48:31] [Server thread/INFO]: NoUR_455[/10.147.20.242:54513] logged in with entity id 21636 at (-4420.488101468259, 65.16610926093821, -975.8264722427954)
-[12:48:31] [Server thread/INFO]: NoUR_455 joined the game
-[12:51:18] [Server thread/INFO]: NoUR_455 was doomed to fall by Creeper
-[12:59:52] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[12:59:52] [Server thread/INFO]: NoUR_455 left the game
-[13:00:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:08:45] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:08:46] [Server thread/INFO]: NoUR_455[/10.147.20.242:54705] logged in with entity id 25655 at (-4404.252091673505, 83.0, -1388.3139510534156)
-[13:08:46] [Server thread/INFO]: NoUR_455 joined the game
-[13:15:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4356, y=62, z=-1460} ji{x=-4357, y=63, z=-1461}
-[13:20:30] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4499.500000, 65.000000, -969.500000]
-[13:39:38] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[13:39:38] [Server thread/INFO]: NoUR_455 left the game
-[13:40:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:55:07] [User Authenticator #6/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[13:55:08] [Server thread/INFO]: LEON_445[/10.147.20.36:50598] logged in with entity id 32828 at (-501051.61106269935, 73.0, -294091.3000000119)
-[13:55:08] [Server thread/INFO]: LEON_445 joined the game
-[14:05:00] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
-[14:08:06] [Server thread/INFO]: LEON_445 tried to swim in lava
-[14:10:57] [User Authenticator #7/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[14:10:57] [Server thread/INFO]: 9zqi[/10.147.20.81:55877] logged in with entity id 38040 at (243.91213484093913, 57.0, 17.476756338003394)
-[14:10:57] [Server thread/INFO]: 9zqi joined the game
-[14:22:59] [User Authenticator #8/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[14:22:59] [Server thread/INFO]: NoUR_455[/10.147.20.242:59971] logged in with entity id 41987 at (-4417.017314341891, 64.0, -984.7100822157847)
-[14:22:59] [Server thread/INFO]: NoUR_455 joined the game
-[14:23:02] [Server thread/INFO]: Villager coj['Fletcher'/37180, l='ServerLevel[world]', x=-500859.10, y=67.00, z=-294117.49] died, message: 'Fletcher was slain by LEON_445'
-[14:24:26] [Server thread/INFO]: Villager coj['Fletcher'/37160, l='ServerLevel[world]', x=-500863.49, y=66.00, z=-294109.61] died, message: 'Fletcher was slain by LEON_445'
-[14:28:00] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[14:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
-[14:28:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-501168, y=93, z=-294115} ji{x=-501169, y=93, z=-294115}
-[14:33:58] [Server thread/INFO]: NoUR_455 was killed
-[14:33:58] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[14:36:25] [Server thread/INFO]: NoUR_455 has made the advancement [Spooky Scary Skeleton]
-[14:36:34] [Server thread/INFO]: NoUR_455 was killed
-[14:36:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[14:37:24] [Server thread/INFO]: LEON_445 was slain by Drowned
-[14:37:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
-[14:37:56] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
-[14:39:27] [Server thread/INFO]: Villager coj['Villager'/52305, l='ServerLevel[world]', x=-500909.67, y=62.05, z=-294162.84] died, message: 'Villager was slain by Drowned'
-[14:39:30] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[14:39:30] [Server thread/INFO]: 9zqi left the game
-[14:40:34] [Server thread/INFO]: NoUR_455 was killed
-[14:40:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[14:57:37] [Server thread/INFO]: [NoUR_455: Set the time to 13000]
-[15:10:18] [Server thread/INFO]: Villager coj['Villager'/61758, l='ServerLevel[world]', x=-500870.26, y=65.25, z=-294115.53] died, message: 'Villager burned to death'
-[15:11:30] [Server thread/INFO]: NoUR_455 was killed
-[15:11:30] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:12:31] [User Authenticator #9/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[15:12:32] [Server thread/INFO]: 9zqi[/10.147.20.81:57031] logged in with entity id 66747 at (-500815.3000000119, 79.0, -294184.6999999881)
-[15:12:32] [Server thread/INFO]: 9zqi joined the game
-[15:14:47] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:14:52] [Server thread/WARN]: 9zqi moved too quickly! 9.618286561453715,2.1661092609382138,2.023205496952869
-[15:14:56] [Server thread/WARN]: 9zqi was kicked for floating too long!
-[15:14:56] [Server thread/INFO]: 9zqi lost connection: Flying is not enabled on this server
-[15:14:56] [Server thread/INFO]: 9zqi left the game
-[15:15:00] [Server thread/INFO]: NoUR_455 was killed
-[15:15:00] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:15:05] [User Authenticator #10/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[15:15:05] [Server thread/INFO]: 9zqi[/10.147.20.81:57090] logged in with entity id 69146 at (-500593.6965190864, 76.00133597911214, -294348.70543302404)
-[15:15:05] [Server thread/INFO]: 9zqi joined the game
-[15:15:43] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:16:05] [Server thread/INFO]: [9zqi: Teleported 9zqi to -500474.880000, 72.000000, -294402.410000]
-[15:16:22] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501502.500000, 70.000000, -293233.500000]
-[15:16:29] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -501193.500000, 64.000000, -294112.500000]
-[15:16:31] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[15:16:40] [Server thread/INFO]: NoUR_455 was killed
-[15:16:40] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:17:18] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501499.500000, 70.000000, -294110.500000]
-[15:17:21] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:18:24] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[15:18:38] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:19:47] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:22:49] [Server thread/INFO]: LEON_445 was burned to a crisp while fighting 9zqi
-[15:22:54] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:25:08] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
-[15:25:22] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
-[15:27:09] [Server thread/INFO]: NoUR_455 was killed
-[15:27:09] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:28:23] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:28:32] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[15:29:20] [Server thread/INFO]: NoUR_455 was killed
-[15:29:20] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:30:10] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[15:31:28] [Server thread/INFO]: NoUR_455 was killed
-[15:31:28] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:31:37] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[15:31:52] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:32:10] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[15:32:24] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[15:32:57] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[15:34:09] [Server thread/INFO]: NoUR_455 fell out of the world
-[15:34:15] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[15:36:11] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:36:21] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501499.500000, 70.000000, -294110.500000]
-[15:38:40] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[15:38:42] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
-[15:38:47] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:38:50] [Server thread/INFO]: NoUR_455 was killed
-[15:38:50] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:38:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -989.500000]
-[15:38:58] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:39:25] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:41:05] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:41:12] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[15:41:14] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:42:32] [Server thread/INFO]: NoUR_455 has made the advancement [Withering Heights]
-[15:42:32] [Server thread/INFO]: LEON_445 has made the advancement [Withering Heights]
-[15:42:50] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
-[15:44:34] [Server thread/INFO]: NoUR_455 was killed
-[15:44:34] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[15:48:16] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:51:01] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:51:06] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:15] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:23] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:35] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:45] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:52] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:51:56] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:52:00] [Server thread/INFO]: 9zqi was slain by LEON_445
-[15:52:11] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[15:52:11] [Server thread/INFO]: 9zqi left the game
-[15:52:16] [User Authenticator #11/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[15:52:17] [Server thread/INFO]: 9zqi[/10.147.20.81:57732] logged in with entity id 101238 at (-501530.66352636646, 69.0, -293237.30285464815)
-[15:52:17] [Server thread/INFO]: 9zqi joined the game
-[15:53:00] [Server thread/INFO]: [9zqi: Teleported 9zqi to NoUR_455]
-[15:53:00] [Server thread/INFO]: NoUR_455 has made the advancement [Bring Home the Beacon]
-[15:53:00] [Server thread/INFO]: 9zqi has made the advancement [Bring Home the Beacon]
-[15:53:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:53:29] [Server thread/INFO]: 9zqi was killed
-[15:53:29] [Server thread/INFO]: [9zqi: Killed 9zqi]
-[15:53:39] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[15:53:56] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[15:56:48] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4964.070000, -26.000000, -1043.210000]
-[16:01:08] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[16:03:29] [Server thread/INFO]: [9zqi: Teleported 9zqi to LEON_445]
-[16:04:42] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4964.070000, -26.000000, -1043.210000]
-[16:04:47] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501499.500000, 70.000000, -294110.500000]
-[16:05:21] [Server thread/INFO]: NoUR_455 was killed
-[16:05:21] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[16:06:44] [Server thread/WARN]: 9zqi moved too quickly! 7.3348268524277955,-0.9755759117863203,-6.9432207543286495
-[16:07:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[16:10:22] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[16:10:43] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[16:11:00] [Server thread/INFO]: LEON_445 lost connection: Disconnected
-[16:11:00] [Server thread/INFO]: LEON_445 left the game
-[16:11:21] [Server thread/INFO]: NoUR_455 was killed
-[16:11:21] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[16:14:26] [Server thread/INFO]: [9zqi: Teleported 9zqi to NoUR_455]
-[16:15:09] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501499.500000, 70.000000, -5094110.500000]
-[16:16:34] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[16:20:17] [Server thread/INFO]: NoUR_455 was blown up by Creeper
-[16:20:21] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[16:25:11] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[16:29:48] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[16:30:07] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 9zqi]
-[16:30:49] [Server thread/INFO]: NoUR_455 was killed
-[16:30:49] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[16:33:54] [Server thread/INFO]: [9zqi: Teleported 9zqi to NoUR_455]
-[16:41:04] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[16:41:04] [Server thread/INFO]: 9zqi left the game
-[16:43:58] [Server thread/INFO]: NoUR_455 lost connection: Timed out
-[16:43:58] [Server thread/INFO]: NoUR_455 left the game
-[16:44:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:00:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:00:30] [ServerMain/INFO]: Loaded 1370 recipes
+[12:00:30] [ServerMain/INFO]: Loaded 1481 advancements
+[12:00:30] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:00:30] [Server thread/INFO]: Loading properties
+[12:00:30] [Server thread/INFO]: Default game type: SURVIVAL
+[12:00:30] [Server thread/INFO]: Generating keypair
+[12:00:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:00:30] [Server thread/INFO]: Using epoll channel type
+[12:00:31] [Server thread/INFO]: Preparing level "world"
+[12:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:00:35] [Server thread/INFO]: Time elapsed: 3867 ms
+[12:00:35] [Server thread/INFO]: Done (4.396s)! For help, type "help"
+[12:01:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:04:49] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[12:04:50] [Server thread/INFO]: 9zqi[/10.147.20.58:51553] logged in with entity id 8 at (-4513.910983194111, 61.324308455049696, -1047.0393595981243)
+[12:04:50] [Server thread/INFO]: 9zqi joined the game
+[12:09:03] [Server thread/INFO]: 9zqi was killed
+[12:09:03] [Server thread/INFO]: [9zqi: Killed 9zqi]
