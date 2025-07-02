@@ -4209,15 +4209,21 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "beacon": "2025-07-01 15:53:00 +0000"
+      "has_warped_fungus": "2025-07-01 14:29:01 +0000"
     },
     "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-01 14:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-01 14:36:25 +0000"
     },
     "done": true
   },
@@ -4233,15 +4239,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-07-01 14:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-07-01 14:29:01 +0000"
+      "beacon": "2025-07-01 15:53:00 +0000"
     },
     "done": true
   },
