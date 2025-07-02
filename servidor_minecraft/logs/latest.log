@@ -55,3 +55,14 @@
 [12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
 [12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
 [12:41:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10704, y=16, z=9792} ji{x=-10704, y=17, z=9793}
+[12:41:17] [User Authenticator #3/INFO]: UUID of player its_yusuf is 08ad3a63-b03d-45ee-a256-bd6d7d6b3041
+[12:41:18] [Server thread/INFO]: its_yusuf[/10.147.20.221:65485] logged in with entity id 22401 at (-4436.002954147514, 64.0, -985.2394687570519)
+[12:41:18] [Server thread/INFO]: its_yusuf joined the game
+[12:44:03] [Server thread/INFO]: its_yusuf has made the advancement [Take Aim]
+[12:45:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10484, y=14, z=9747} ji{x=-10484, y=13, z=9747}
+[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
+[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
+[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
+[12:48:46] [Server thread/INFO]: its_yusuf has made the advancement [Enchanter]
+[12:50:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10496, y=16, z=9676} ji{x=-10497, y=14, z=9677}
+[12:51:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10476, y=12, z=9728} ji{x=-10476, y=12, z=9727}
