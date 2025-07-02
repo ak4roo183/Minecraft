@@ -25,3 +25,33 @@
 [12:04:50] [Server thread/INFO]: 9zqi joined the game
 [12:09:03] [Server thread/INFO]: 9zqi was killed
 [12:09:03] [Server thread/INFO]: [9zqi: Killed 9zqi]
+[12:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=38, y=16, z=-574}
+[12:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=40, y=15, z=-574}
+[12:23:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=38, y=16, z=-583}
+[12:31:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to -9999.500000, 70.000000, 10000.500000]
+[12:31:42] [Server thread/WARN]: 9zqi moved too quickly! 0.0,-10.40899122375771,0.0
+[12:32:47] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[12:32:48] [Server thread/INFO]: LEON_445[/10.147.20.36:51284] logged in with entity id 17814 at (235.71175450603621, 57.0, 17.62068685608786)
+[12:32:48] [Server thread/INFO]: LEON_445 joined the game
+[12:35:37] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
+[12:36:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9946} ji{x=-10630, y=14, z=9947}
+[12:36:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9946} ji{x=-10630, y=14, z=9947}
+[12:37:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9912} ji{x=-10630, y=14, z=9913}
+[12:37:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
+[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
+[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
+[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
+[12:41:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10704, y=16, z=9792} ji{x=-10704, y=17, z=9793}
