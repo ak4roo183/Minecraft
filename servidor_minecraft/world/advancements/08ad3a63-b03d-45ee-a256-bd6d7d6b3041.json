@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:forest": "2025-06-29 12:48:13 +0000",
       "minecraft:taiga": "2025-06-29 13:36:39 +0000",
+      "minecraft:dripstone_caves": "2025-07-02 12:56:31 +0000",
       "minecraft:plains": "2025-06-29 12:45:50 +0000"
     },
     "done": false
@@ -112,6 +113,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-02 12:42:03 +0000",
+      "bread": "2025-07-02 12:57:09 +0000",
       "cooked_salmon": "2025-06-29 14:02:16 +0000",
       "carrot": "2025-06-29 12:51:39 +0000"
     },
@@ -157,6 +159,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-29 14:30:00 +0000",
       "minecraft:skeleton": "2025-06-29 12:55:46 +0000",
+      "minecraft:zombified_piglin": "2025-07-02 12:51:04 +0000",
       "minecraft:spider": "2025-07-02 12:42:41 +0000",
       "minecraft:zombie": "2025-06-29 14:07:54 +0000"
     },
@@ -1164,9 +1167,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_string": "2025-07-02 12:44:16 +0000"
+      "has_bone": "2025-07-02 12:43:44 +0000"
     },
     "done": true
   },
@@ -1176,15 +1179,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-02 12:44:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_water_bucket": "2025-07-02 12:47:38 +0000"
+      "has_string": "2025-07-02 12:44:16 +0000"
     },
     "done": true
   },
@@ -1194,21 +1197,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-02 12:48:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-02 12:44:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-07-02 12:43:44 +0000"
     },
     "done": true
   },
@@ -1227,6 +1218,78 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-07-02 12:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 12:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-02 12:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 12:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 12:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-02 12:56:31 +0000"
     },
     "done": true
   },

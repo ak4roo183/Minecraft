@@ -66,3 +66,23 @@
 [12:48:46] [Server thread/INFO]: its_yusuf has made the advancement [Enchanter]
 [12:50:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10496, y=16, z=9676} ji{x=-10497, y=14, z=9677}
 [12:51:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10476, y=12, z=9728} ji{x=-10476, y=12, z=9727}
+[12:52:38] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10457, y=12, z=9750} ji{x=-10458, y=12, z=9750}
+[12:53:21] [Server thread/INFO]: its_yusuf lost connection: Disconnected
+[12:53:21] [Server thread/INFO]: its_yusuf left the game
+[12:54:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -969.500000]
+[12:54:54] [Server thread/INFO]: [9zqi: Teleported 9zqi to -9999.500000, 70.000000, -999999.500000]
+[12:55:17] [Server thread/INFO]: LEON_445 tried to swim in lava
+[12:55:35] [User Authenticator #4/INFO]: UUID of player its_yusuf is 08ad3a63-b03d-45ee-a256-bd6d7d6b3041
+[12:55:36] [Server thread/INFO]: its_yusuf[/10.147.20.221:49982] logged in with entity id 34980 at (-4454.227727427187, 18.0, -971.2352078550315)
+[12:55:36] [Server thread/INFO]: its_yusuf joined the game
+[12:55:40] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -969.500000]
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
+[13:01:19] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:01:19] [Server thread/INFO]: NoUR_455[/10.147.20.242:58386] logged in with entity id 39574 at (-4379.742294423353, 67.0, -981.3200172305537)
+[13:01:20] [Server thread/INFO]: NoUR_455 joined the game
