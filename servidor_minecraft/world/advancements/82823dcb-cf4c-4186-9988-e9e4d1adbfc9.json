@@ -32,8 +32,10 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-23 13:35:45 +0000",
       "minecraft:badlands": "2025-06-23 13:12:07 +0000",
       "minecraft:flower_forest": "2025-06-21 13:11:35 +0000",
+      "minecraft:savanna_plateau": "2025-07-03 10:52:37 +0000",
       "minecraft:beach": "2025-06-21 13:04:09 +0000",
       "minecraft:dark_forest": "2025-07-02 13:28:26 +0000",
+      "minecraft:stony_peaks": "2025-07-03 10:52:00 +0000",
       "minecraft:sparse_jungle": "2025-06-21 12:56:27 +0000",
       "minecraft:river": "2025-06-21 12:54:22 +0000",
       "minecraft:lukewarm_ocean": "2025-06-21 19:54:01 +0000",
@@ -48,7 +50,8 @@
       "minecraft:windswept_gravelly_hills": "2025-06-24 08:30:14 +0000",
       "minecraft:savanna": "2025-06-21 13:10:29 +0000",
       "minecraft:plains": "2025-06-21 12:27:48 +0000",
-      "minecraft:jagged_peaks": "2025-06-21 20:14:10 +0000"
+      "minecraft:jagged_peaks": "2025-06-21 20:14:10 +0000",
+      "minecraft:pale_garden": "2025-07-03 10:49:04 +0000"
     },
     "done": false
   },
@@ -3849,9 +3852,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "voluntary_exile": "2025-07-02 13:48:57 +0000"
+      "netherite_armor": "2025-07-02 13:23:35 +0000"
     },
     "done": true
   },
@@ -3873,9 +3876,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "netherite_armor": "2025-07-02 13:23:35 +0000"
+      "voluntary_exile": "2025-07-02 13:48:57 +0000"
     },
     "done": true
   },
