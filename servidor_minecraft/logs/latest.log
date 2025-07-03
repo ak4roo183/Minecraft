@@ -1,186 +1,23 @@
-[12:00:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:00:30] [ServerMain/INFO]: Loaded 1370 recipes
-[12:00:30] [ServerMain/INFO]: Loaded 1481 advancements
-[12:00:30] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[12:00:30] [Server thread/INFO]: Loading properties
-[12:00:30] [Server thread/INFO]: Default game type: SURVIVAL
-[12:00:30] [Server thread/INFO]: Generating keypair
-[12:00:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:00:30] [Server thread/INFO]: Using epoll channel type
-[12:00:31] [Server thread/INFO]: Preparing level "world"
-[12:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[12:00:35] [Server thread/INFO]: Time elapsed: 3867 ms
-[12:00:35] [Server thread/INFO]: Done (4.396s)! For help, type "help"
-[12:01:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:04:49] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[12:04:50] [Server thread/INFO]: 9zqi[/10.147.20.58:51553] logged in with entity id 8 at (-4513.910983194111, 61.324308455049696, -1047.0393595981243)
-[12:04:50] [Server thread/INFO]: 9zqi joined the game
-[12:09:03] [Server thread/INFO]: 9zqi was killed
-[12:09:03] [Server thread/INFO]: [9zqi: Killed 9zqi]
-[12:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=38, y=16, z=-574}
-[12:23:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=40, y=15, z=-574}
-[12:23:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=28, y=15, z=-585} ji{x=38, y=16, z=-583}
-[12:31:41] [Server thread/INFO]: [9zqi: Teleported 9zqi to -9999.500000, 70.000000, 10000.500000]
-[12:31:42] [Server thread/WARN]: 9zqi moved too quickly! 0.0,-10.40899122375771,0.0
-[12:32:47] [User Authenticator #2/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[12:32:48] [Server thread/INFO]: LEON_445[/10.147.20.36:51284] logged in with entity id 17814 at (235.71175450603621, 57.0, 17.62068685608786)
-[12:32:48] [Server thread/INFO]: LEON_445 joined the game
-[12:35:37] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[12:36:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9946} ji{x=-10630, y=14, z=9947}
-[12:36:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9946} ji{x=-10630, y=14, z=9947}
-[12:37:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=14, z=9912} ji{x=-10630, y=14, z=9913}
-[12:37:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:37:52] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10630, y=16, z=9879} ji{x=-10631, y=16, z=9880}
-[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
-[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
-[12:39:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10645, y=14, z=9807} ji{x=-10678, y=15, z=9807}
-[12:41:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10704, y=16, z=9792} ji{x=-10704, y=17, z=9793}
-[12:41:17] [User Authenticator #3/INFO]: UUID of player its_yusuf is 08ad3a63-b03d-45ee-a256-bd6d7d6b3041
-[12:41:18] [Server thread/INFO]: its_yusuf[/10.147.20.221:65485] logged in with entity id 22401 at (-4436.002954147514, 64.0, -985.2394687570519)
-[12:41:18] [Server thread/INFO]: its_yusuf joined the game
-[12:44:03] [Server thread/INFO]: its_yusuf has made the advancement [Take Aim]
-[12:45:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10484, y=14, z=9747} ji{x=-10484, y=13, z=9747}
-[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
-[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
-[12:47:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10534, y=14, z=9704} ji{x=-10535, y=15, z=9705}
-[12:48:46] [Server thread/INFO]: its_yusuf has made the advancement [Enchanter]
-[12:50:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10496, y=16, z=9676} ji{x=-10497, y=14, z=9677}
-[12:51:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10476, y=12, z=9728} ji{x=-10476, y=12, z=9727}
-[12:52:38] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10457, y=12, z=9750} ji{x=-10458, y=12, z=9750}
-[12:53:21] [Server thread/INFO]: its_yusuf lost connection: Disconnected
-[12:53:21] [Server thread/INFO]: its_yusuf left the game
-[12:54:09] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -969.500000]
-[12:54:54] [Server thread/INFO]: [9zqi: Teleported 9zqi to -9999.500000, 70.000000, -999999.500000]
-[12:55:17] [Server thread/INFO]: LEON_445 tried to swim in lava
-[12:55:35] [User Authenticator #4/INFO]: UUID of player its_yusuf is 08ad3a63-b03d-45ee-a256-bd6d7d6b3041
-[12:55:36] [Server thread/INFO]: its_yusuf[/10.147.20.221:49982] logged in with entity id 34980 at (-4454.227727427187, 18.0, -971.2352078550315)
-[12:55:36] [Server thread/INFO]: its_yusuf joined the game
-[12:55:40] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to -4499.500000, 75.000000, -969.500000]
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[12:56:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-10244, y=33, z=-1000098} ji{x=-10226, y=26, z=-1000094}
-[13:01:19] [User Authenticator #5/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[13:01:19] [Server thread/INFO]: NoUR_455[/10.147.20.242:58386] logged in with entity id 39574 at (-4379.742294423353, 67.0, -981.3200172305537)
-[13:01:20] [Server thread/INFO]: NoUR_455 joined the game
-[13:04:30] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[13:17:16] [Server thread/INFO]: 9zqi was killed
-[13:17:16] [Server thread/INFO]: [9zqi: Killed 9zqi]
-[13:20:14] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[13:23:16] [Server thread/INFO]: [9zqi: Teleported 9zqi to -501502.500000, 70.000000, -293233.500000]
-[13:23:35] [Server thread/INFO]: LEON_445 has completed the challenge [Cover Me in Debris]
-[13:23:36] [Server thread/INFO]: NoUR_455 fell from a high place
-[13:23:56] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:23:58] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4391.500000, -36.000000, -1112.500000]
-[13:24:11] [Server thread/WARN]: 9zqi moved wrongly!
-[13:24:24] [Server thread/INFO]: LEON_445 was slain by 9zqi
-[13:25:27] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:26:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:27:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:27:12] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:27:22] [Server thread/INFO]: LEON_445 was shot by NoUR_455
-[13:27:52] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[13:28:05] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -18464.000000, 64.000000, 736.000000]
-[13:28:08] [Server thread/WARN]: NoUR_455 moved too quickly! 0.0,-10.80652611000901,0.0
-[13:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
-[13:28:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:28:50] [Server thread/INFO]: [its_yusuf: Teleported its_yusuf to -4499.500000, 72.000000, -989.500000]
-[13:29:11] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:29:18] [Server thread/INFO]: its_yusuf lost connection: Disconnected
-[13:29:18] [Server thread/INFO]: its_yusuf left the game
-[13:30:06] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:35:45] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[13:36:31] [Server thread/INFO]: [9zqi: Teleported 9zqi to -4964.070000, -26.000000, -1043.210000]
-[13:36:59] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:37:50] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:04] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:15] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:17] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:19] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:23] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:25] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:26] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:31] [Server thread/INFO]: LEON_445 fell out of the world
-[13:38:38] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:43] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:38:50] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:38:52] [Server thread/INFO]: LEON_445 fell from a high place
-[13:39:01] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:42:07] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:43:44] [Server thread/INFO]: 9zqi was slain by Enderman
-[13:43:55] [Server thread/INFO]: LEON_445 was killed
-[13:43:55] [Server thread/INFO]: [9zqi: Killed LEON_445]
-[13:44:05] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:44:19] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:44:40] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:47:18] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:48:10] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[13:48:22] [Server thread/INFO]: NoUR_455 was killed
-[13:48:22] [Server thread/INFO]: [9zqi: Killed NoUR_455]
-[13:48:26] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:48:27] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[13:48:57] [Server thread/INFO]: LEON_445 has made the advancement [Voluntary Exile]
-[13:49:20] [Server thread/INFO]: LEON_445 was burned to a crisp while fighting 9zqi
-[13:49:23] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:50:34] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:52:28] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:53:11] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to 9zqi]
-[13:53:38] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[13:53:45] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[13:53:45] [Server thread/INFO]: 9zqi left the game
-[13:55:02] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[14:02:59] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[14:03:25] [Server thread/WARN]: LEON_445 moved wrongly!
-[14:03:26] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to LEON_445]
-[14:04:36] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:05:49] [Server thread/INFO]: NoUR_455 was killed
-[14:05:49] [Server thread/INFO]: [NoUR_455: Killed NoUR_455]
-[14:06:44] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:13:36] [Server thread/INFO]: LEON_445 lost connection: Disconnected
-[14:13:36] [Server thread/INFO]: LEON_445 left the game
-[14:15:23] [Server thread/INFO]: [NoUR_455: Set own game mode to Creative Mode]
-[14:15:43] [Server thread/INFO]: [NoUR_455: Set own game mode to Survival Mode]
-[14:16:31] [Server thread/INFO]: NoUR_455 has reached the goal [Beaconator]
-[14:22:13] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501778.500000, 68.000000, -293090.500000]
-[14:27:16] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501193.500000, 64.000000, -294112.500000]
-[14:28:16] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -502002.500000, 21.000000, -293110.500000]
-[14:28:21] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[14:31:50] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501195.500000, 62.000000, -294101.500000]
-[14:32:38] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501778.500000, 68.000000, -293090.500000]
-[14:33:49] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -501195.500000, 62.000000, -294101.500000]
-[14:34:11] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.070000, -26.000000, -1043.210000]
-[14:36:55] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[14:43:35] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4964.500000, -26.000000, -1042.500000]
-[14:48:33] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[14:50:04] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 238.500000, 57.000000, 15.500000]
-[14:55:04] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[15:00:05] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to 238.500000, 57.000000, 15.500000]
-[15:01:58] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
-[15:07:11] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[15:07:11] [Server thread/INFO]: NoUR_455 left the game
-[15:08:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:32:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:32:13] [ServerMain/INFO]: Loaded 1370 recipes
+[05:32:13] [ServerMain/INFO]: Loaded 1481 advancements
+[05:32:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:32:13] [Server thread/INFO]: Loading properties
+[05:32:13] [Server thread/INFO]: Default game type: SURVIVAL
+[05:32:13] [Server thread/INFO]: Generating keypair
+[05:32:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:32:13] [Server thread/INFO]: Using epoll channel type
+[05:32:13] [Server thread/INFO]: Preparing level "world"
+[05:32:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:32:18] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[05:32:18] [Server thread/INFO]: Time elapsed: 4063 ms
+[05:32:18] [Server thread/INFO]: Done (4.384s)! For help, type "help"
+[05:33:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
