@@ -13,6 +13,7 @@
       "minecraft:taiga": "2025-06-24 14:13:45 +0000",
       "minecraft:deep_ocean": "2025-06-21 16:33:02 +0000",
       "minecraft:lush_caves": "2025-06-22 20:43:06 +0000",
+      "minecraft:ice_spikes": "2025-07-03 12:01:25 +0000",
       "minecraft:eroded_badlands": "2025-06-21 16:12:07 +0000",
       "minecraft:desert": "2025-06-21 16:23:52 +0000",
       "minecraft:frozen_river": "2025-06-30 14:07:05 +0000",
@@ -46,7 +47,9 @@
       "minecraft:meadow": "2025-06-24 13:00:34 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-24 17:33:40 +0000",
       "minecraft:savanna": "2025-06-21 13:10:19 +0000",
-      "minecraft:plains": "2025-06-21 12:31:16 +0000"
+      "minecraft:plains": "2025-06-21 12:31:16 +0000",
+      "minecraft:jagged_peaks": "2025-07-03 14:00:44 +0000",
+      "minecraft:pale_garden": "2025-07-03 14:04:17 +0000"
     },
     "done": false
   },
@@ -4261,6 +4264,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-07-02 14:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-03 14:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 14:05:14 +0000"
     },
     "done": true
   },

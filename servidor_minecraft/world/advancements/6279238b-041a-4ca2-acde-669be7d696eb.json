@@ -36,6 +36,7 @@
       "minecraft:jagged_peaks": "2025-06-21 20:14:17 +0000",
       "minecraft:cold_ocean": "2025-06-22 18:31:13 +0000",
       "minecraft:forest": "2025-06-21 11:08:52 +0000",
+      "minecraft:lush_caves": "2025-07-03 12:18:35 +0000",
       "minecraft:deep_cold_ocean": "2025-06-22 18:31:33 +0000",
       "minecraft:ice_spikes": "2025-06-23 07:09:36 +0000",
       "minecraft:frozen_ocean": "2025-06-25 12:58:03 +0000",
@@ -55,7 +56,8 @@
       "minecraft:meadow": "2025-06-21 13:38:34 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-25 13:02:08 +0000",
       "minecraft:savanna": "2025-06-21 13:10:42 +0000",
-      "minecraft:plains": "2025-06-21 11:07:53 +0000"
+      "minecraft:plains": "2025-06-21 11:07:53 +0000",
+      "minecraft:pale_garden": "2025-07-03 14:04:45 +0000"
     },
     "done": false
   },
@@ -3779,7 +3781,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-06-24 13:07:53 +0000"
+      "minecraft:cow": "2025-06-24 13:07:53 +0000",
+      "minecraft:sheep": "2025-07-03 12:59:08 +0000"
     },
     "done": false
   },
@@ -5352,6 +5355,138 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-02 13:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-03 12:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-07-03 12:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-03 12:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-07-03 12:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-03 13:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-03 13:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-03 13:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-03 13:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 13:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-03 14:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-07-03 14:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-03 13:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-03 14:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-03 14:05:37 +0000"
     },
     "done": true
   },
