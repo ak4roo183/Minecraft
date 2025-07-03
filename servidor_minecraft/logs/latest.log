@@ -1,23 +1,24 @@
-[05:32:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:32:13] [ServerMain/INFO]: Loaded 1370 recipes
-[05:32:13] [ServerMain/INFO]: Loaded 1481 advancements
-[05:32:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:32:13] [Server thread/INFO]: Loading properties
-[05:32:13] [Server thread/INFO]: Default game type: SURVIVAL
-[05:32:13] [Server thread/INFO]: Generating keypair
-[05:32:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:32:13] [Server thread/INFO]: Using epoll channel type
-[05:32:13] [Server thread/INFO]: Preparing level "world"
-[05:32:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:32:18] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[05:32:18] [Server thread/INFO]: Time elapsed: 4063 ms
-[05:32:18] [Server thread/INFO]: Done (4.384s)! For help, type "help"
-[05:33:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:01:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:01:38] [ServerMain/INFO]: Loaded 1370 recipes
+[06:01:38] [ServerMain/INFO]: Loaded 1481 advancements
+[06:01:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[06:01:38] [Server thread/INFO]: Loading properties
+[06:01:38] [Server thread/INFO]: Default game type: SURVIVAL
+[06:01:38] [Server thread/INFO]: Generating keypair
+[06:01:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:01:38] [Server thread/INFO]: Using epoll channel type
+[06:01:38] [Server thread/INFO]: Preparing level "world"
+[06:01:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[06:01:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:01:42] [Server thread/INFO]: Time elapsed: 3749 ms
+[06:01:42] [Server thread/INFO]: Done (4.055s)! For help, type "help"
+[06:02:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:08:48] [User Authenticator #1/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[06:09:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a7642b6[id=6279238b-041a-4ca2-acde-669be7d696eb,name=9zqi,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1MTUyMjkyODI0NSwKICAicHJvZmlsZUlkIiA6ICI2Mjc5MjM4YjA0MWE0Y2EyYWNkZTY2OWJlN2Q2OTZlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICI5enFpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlMTlhZTJhYWMyZTcyZmJhYWY3NGFmYzk1ZjJhMmZjY2FiOGEwZDkxMTBlZGYwZWFmMWU3MGNmZTVhMWZjMDAiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4ZGU0YTgxNjg4YWQxOGI0OWU3MzVhMjczZTA4NmMxOGYxZTM5NjY5NTYxMjNjY2I1NzQwMzRjMDZmNWQzMzYiCiAgICB9CiAgfQp9, signature=HkQXHvD+rm7VaS9gQCAZTdCiyZsgWQ/6piqNM3wAR3RYOOqcGImPQOw9kSBMbJ+Roh27cbved8kB1HHT9xHer77KQprC9l0HFVEHM2TBD3VXFoL8UJ7Zuvhye4dnF3ENCvDvbjxIIvLPtWP5vNnkC9oq1H+qjnY+OQB9AZ2gZhVpLpJ3kX8kJeIiXl0sdIrnzyLw1rM1Mt5pItTNM0oWuyQP4ciHMNynM6SKJ/kqm57z1Rpt29i6bHXIfy+6AVTyhiFx4jAPwc0O1HmhIvDP9G9Wx1gKL9HSOycicsIfziIJ3yJzDeB+Wa4z3IIcRJFa/USG5xGphXwQlbJ1iTVrkXyA5ZlD17ENaCmIoHhZnUUhuWxuSdRhFCN/NuU0Xf8NC2Whh6He2y2Rz5N16pTDYIxrya28IkFAqL7Eh1pgJUoeOIIk47OFAoXe/vVoV23X1/L6PfGXKe2woihnz6FfEyelvJTs2vsWNF+Qs0LoZGJ/KfPR+DeyIjo48MGhKoK8v2H6XUysxniL7uFAeaUkOpizbnRV0QBkXsobK9flTr34T7utOnW/DvUhvrl5AgiD6Q4reXoIGhcQZleUxnE87RVEhTYcJkoGviXkdVB5QjNkk/0KdKqfR6TuFSsDKOGIf0NF5pYh9Smu0OQVt+tHhfLUPt5Ql5p8a+tm9on2TQw=]]}] lost connection: Timed out
