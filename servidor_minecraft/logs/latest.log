@@ -26,3 +26,12 @@
 [11:27:42] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
 [11:27:42] [Server thread/INFO]: NoUR_455 left the game
 [11:28:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:53:38] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[11:53:38] [Server thread/INFO]: NoUR_455[/172.26.53.0:63640] logged in with entity id 2332 at (-6502.751402398504, 66.0, -2853.699999988079)
+[11:53:38] [Server thread/INFO]: NoUR_455 joined the game
+[11:54:12] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
+[11:55:08] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[11:55:08] [Server thread/INFO]: LEON_445[/172.26.65.195:50820] logged in with entity id 3459 at (-4393.234706422793, 104.0, -945.1999723870466)
+[11:55:08] [Server thread/INFO]: LEON_445 joined the game
+[11:58:37] [Server thread/INFO]: LEON_445 was killed
+[11:58:37] [Server thread/INFO]: [NoUR_455: Killed LEON_445]
