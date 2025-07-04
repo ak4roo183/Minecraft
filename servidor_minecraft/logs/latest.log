@@ -91,3 +91,22 @@
 [13:42:25] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
 [13:42:26] [Server thread/INFO]: NoUR_455[/172.26.53.0:64963] logged in with entity id 37210 at (-3827.406818973102, -25.0, -1521.699999988079)
 [13:42:26] [Server thread/INFO]: NoUR_455 joined the game
+[13:51:44] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4422.500000, 64.000000, -979.500000]
+[13:53:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=60, z=-897} ji{x=-4569, y=60, z=-897}
+[13:53:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=60, z=-897} ji{x=-4569, y=60, z=-897}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4568, y=58, z=-894} ji{x=-4568, y=59, z=-893}
+[13:53:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4566, y=59, z=-894} ji{x=-4568, y=59, z=-893}
+[13:55:51] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[13:55:51] [Server thread/INFO]: NoUR_455 left the game
+[13:56:05] [User Authenticator #7/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:56:05] [Server thread/INFO]: NoUR_455[/172.26.53.0:65049] logged in with entity id 42051 at (-4409.840015640198, 95.0, -942.8554946635277)
+[13:56:05] [Server thread/INFO]: NoUR_455 joined the game
+[13:56:41] [Server thread/INFO]: [NoUR_455: Set the time to 13000]
