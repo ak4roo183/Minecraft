@@ -1,23 +1,27 @@
-[18:38:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:38:51] [ServerMain/INFO]: Loaded 1370 recipes
-[18:38:51] [ServerMain/INFO]: Loaded 1481 advancements
-[18:38:51] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:38:51] [Server thread/INFO]: Loading properties
-[18:38:51] [Server thread/INFO]: Default game type: SURVIVAL
-[18:38:51] [Server thread/INFO]: Generating keypair
-[18:38:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:38:51] [Server thread/INFO]: Using epoll channel type
-[18:38:51] [Server thread/INFO]: Preparing level "world"
-[18:38:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:38:56] [Server thread/INFO]: Time elapsed: 4275 ms
-[18:38:56] [Server thread/INFO]: Done (4.593s)! For help, type "help"
-[18:39:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:18:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:18:29] [ServerMain/INFO]: Loaded 1370 recipes
+[11:18:29] [ServerMain/INFO]: Loaded 1481 advancements
+[11:18:29] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:18:29] [Server thread/INFO]: Loading properties
+[11:18:29] [Server thread/INFO]: Default game type: SURVIVAL
+[11:18:29] [Server thread/INFO]: Generating keypair
+[11:18:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:18:29] [Server thread/INFO]: Using epoll channel type
+[11:18:29] [Server thread/INFO]: Preparing level "world"
+[11:18:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:18:33] [Server thread/INFO]: Time elapsed: 3921 ms
+[11:18:33] [Server thread/INFO]: Done (4.168s)! For help, type "help"
+[11:19:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:20:18] [User Authenticator #1/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[11:20:19] [Server thread/INFO]: NoUR_455[/172.26.53.0:63425] logged in with entity id 9 at (-6487.46010108031, 64.5753455594904, -2957.287755978351)
+[11:20:19] [Server thread/INFO]: NoUR_455 joined the game
+[11:27:42] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[11:27:42] [Server thread/INFO]: NoUR_455 left the game
