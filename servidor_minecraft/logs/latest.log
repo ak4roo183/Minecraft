@@ -88,3 +88,6 @@
 [13:10:01] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
 [13:10:01] [Server thread/INFO]: NoUR_455 left the game
 [13:11:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:42:25] [User Authenticator #6/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[13:42:26] [Server thread/INFO]: NoUR_455[/172.26.53.0:64963] logged in with entity id 37210 at (-3827.406818973102, -25.0, -1521.699999988079)
+[13:42:26] [Server thread/INFO]: NoUR_455 joined the game
