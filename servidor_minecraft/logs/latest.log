@@ -1,80 +1,25 @@
-[13:53:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:53:25] [ServerMain/INFO]: Loaded 1370 recipes
-[13:53:25] [ServerMain/INFO]: Loaded 1481 advancements
-[13:53:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:53:25] [Server thread/INFO]: Loading properties
-[13:53:25] [Server thread/INFO]: Default game type: SURVIVAL
-[13:53:25] [Server thread/INFO]: Generating keypair
-[13:53:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:53:26] [Server thread/INFO]: Using epoll channel type
-[13:53:26] [Server thread/INFO]: Preparing level "world"
-[13:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:53:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:53:31] [Server thread/INFO]: Time elapsed: 4113 ms
-[13:53:31] [Server thread/INFO]: Done (4.621s)! For help, type "help"
-[13:54:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:02:43] [User Authenticator #1/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[14:02:44] [Server thread/INFO]: LEON_445[/172.26.65.195:53696] logged in with entity id 9 at (-3827.300000011921, -25.0, -1521.699999988079)
-[14:02:44] [Server thread/INFO]: LEON_445 joined the game
-[14:03:09] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
-[14:03:10] [Server thread/INFO]: NoUR_455[/172.26.53.0:56065] logged in with entity id 419 at (-4435.925652468725, 64.0, -975.1067940822686)
-[14:03:10] [Server thread/INFO]: NoUR_455 joined the game
-[14:04:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:09:36] [Server thread/INFO]: LEON_445 lost connection: Disconnected
-[14:09:36] [Server thread/INFO]: LEON_445 left the game
-[14:11:53] [Server thread/INFO]: NoUR_455 fell from a high place
-[14:11:57] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
-[14:11:58] [Server thread/INFO]: LEON_445[/172.26.65.195:53929] logged in with entity id 14513 at (-5574.716149880363, 72.0, -773.7059858815289)
-[14:11:58] [Server thread/INFO]: LEON_445 joined the game
-[14:12:08] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:12:43] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4829.500000, 64.000000, 2447.500000]
-[14:13:06] [Server thread/WARN]: NoUR_455 moved too quickly! -9.490664813290095,-2.6515661226034695,14.537753804705517
-[14:13:59] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:15:08] [Server thread/WARN]: NoUR_455 moved too quickly! -12.549326495061905,1.7901370497407072,12.837536881320375
-[14:15:42] [User Authenticator #4/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
-[14:15:44] [Server thread/INFO]: Shree6y[/10.147.20.38:56164] logged in with entity id 20157 at (420.70080570771074, 57.0, 553.0238116686946)
-[14:15:44] [Server thread/INFO]: Shree6y joined the game
-[14:16:13] [Server thread/INFO]: [Shree6y: Teleported Shree6y to LEON_445]
-[14:17:09] [Server thread/INFO]: [Shree6y: Teleported Shree6y to NoUR_455]
-[14:17:20] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
-[14:19:15] [Server thread/INFO]: Villager coj['Weaponsmith'/17201, l='ServerLevel[world]', x=-5369.30, y=64.00, z=3054.70] died, message: 'Weaponsmith was slain by Zombie'
-[14:19:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
-[14:19:38] [Server thread/INFO]: Villager coj['Villager'/29147, l='ServerLevel[world]', x=-7525.72, y=101.56, z=4991.37] died, message: 'Villager suffocated in a wall'
-[14:19:41] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to Shree6y]
-[14:20:39] [Server thread/INFO]: NoUR_455 was slain by LEON_445
-[14:20:55] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -7711.500000, 84.000000, 5143.500000]
-[14:21:08] [Server thread/INFO]: LEON_445 was burned to a crisp while fighting Shree6y
-[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
-[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
-[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
-[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
-[14:21:30] [Server thread/WARN]: NoUR_455 moved too quickly! 17.52413607006838,-1.422561311638745,0.04668322165889549
-[14:21:35] [Server thread/WARN]: NoUR_455 moved too quickly! 12.375771736023125,-0.5217045277183843,12.522233865074668
-[14:21:55] [Server thread/INFO]: Shree6y lost connection: Disconnected
-[14:21:55] [Server thread/INFO]: Shree6y left the game
-[14:22:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:22:49] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -1616.500000, 111.000000, 1499.500000]
-[14:22:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:23:54] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
-[14:27:20] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
-[14:27:20] [Server thread/INFO]: NoUR_455 left the game
-[14:28:28] [Server thread/INFO]: LEON_445 lost connection: Disconnected
-[14:28:28] [Server thread/INFO]: LEON_445 left the game
-[14:29:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:49:30] [User Authenticator #5/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
-[14:49:31] [Server thread/INFO]: 9zqi[/172.26.155.55:49294] logged in with entity id 40076 at (-501640.2976711179, 92.15334663426411, -292669.0637857607)
-[14:49:31] [Server thread/INFO]: 9zqi joined the game
-[14:56:57] [Server thread/INFO]: [9zqi: Set own game mode to Spectator Mode]
-[14:57:34] [Server thread/WARN]: 9zqi moved too quickly! -5.366086969850585,3.750000149011612,-8.59320530941477
-[14:57:54] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
-[14:58:47] [Server thread/INFO]: 9zqi lost connection: Disconnected
-[14:58:47] [Server thread/INFO]: 9zqi left the game
-[14:59:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:03:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:03:55] [ServerMain/INFO]: Loaded 1370 recipes
+[18:03:55] [ServerMain/INFO]: Loaded 1481 advancements
+[18:03:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:03:55] [Server thread/INFO]: Loading properties
+[18:03:55] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:55] [Server thread/INFO]: Generating keypair
+[18:03:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:03:55] [Server thread/INFO]: Using epoll channel type
+[18:03:55] [Server thread/INFO]: Preparing level "world"
+[18:03:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:03:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[18:04:00] [Worker-Main-3/INFO]: Preparing spawn area: 65%
+[18:04:01] [Server thread/INFO]: Time elapsed: 5271 ms
+[18:04:01] [Server thread/INFO]: Done (5.543s)! For help, type "help"
+[18:05:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
