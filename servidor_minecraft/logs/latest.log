@@ -37,3 +37,35 @@
 [14:12:08] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
 [14:12:43] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4829.500000, 64.000000, 2447.500000]
 [14:13:06] [Server thread/WARN]: NoUR_455 moved too quickly! -9.490664813290095,-2.6515661226034695,14.537753804705517
+[14:13:59] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:15:08] [Server thread/WARN]: NoUR_455 moved too quickly! -12.549326495061905,1.7901370497407072,12.837536881320375
+[14:15:42] [User Authenticator #4/INFO]: UUID of player Shree6y is 1f8d84d2-583c-4044-bbbb-1ed03fa096c5
+[14:15:44] [Server thread/INFO]: Shree6y[/10.147.20.38:56164] logged in with entity id 20157 at (420.70080570771074, 57.0, 553.0238116686946)
+[14:15:44] [Server thread/INFO]: Shree6y joined the game
+[14:16:13] [Server thread/INFO]: [Shree6y: Teleported Shree6y to LEON_445]
+[14:17:09] [Server thread/INFO]: [Shree6y: Teleported Shree6y to NoUR_455]
+[14:17:20] [Server thread/INFO]: [Shree6y: Teleported Shree6y to -4442.500000, 65.000000, -986.500000]
+[14:19:15] [Server thread/INFO]: Villager coj['Weaponsmith'/17201, l='ServerLevel[world]', x=-5369.30, y=64.00, z=3054.70] died, message: 'Weaponsmith was slain by Zombie'
+[14:19:22] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to Shree6y]
+[14:19:38] [Server thread/INFO]: Villager coj['Villager'/29147, l='ServerLevel[world]', x=-7525.72, y=101.56, z=4991.37] died, message: 'Villager suffocated in a wall'
+[14:19:41] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to Shree6y]
+[14:20:39] [Server thread/INFO]: NoUR_455 was slain by LEON_445
+[14:20:55] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -7711.500000, 84.000000, 5143.500000]
+[14:21:08] [Server thread/INFO]: LEON_445 was burned to a crisp while fighting Shree6y
+[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
+[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
+[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
+[14:21:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-4565, y=54, z=-891} ji{x=-4564, y=55, z=-893}
+[14:21:30] [Server thread/WARN]: NoUR_455 moved too quickly! 17.52413607006838,-1.422561311638745,0.04668322165889549
+[14:21:35] [Server thread/WARN]: NoUR_455 moved too quickly! 12.375771736023125,-0.5217045277183843,12.522233865074668
+[14:21:55] [Server thread/INFO]: Shree6y lost connection: Disconnected
+[14:21:55] [Server thread/INFO]: Shree6y left the game
+[14:22:41] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:22:49] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -1616.500000, 111.000000, 1499.500000]
+[14:22:51] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:23:54] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:27:20] [Server thread/INFO]: NoUR_455 lost connection: Disconnected
+[14:27:20] [Server thread/INFO]: NoUR_455 left the game
+[14:28:28] [Server thread/INFO]: LEON_445 lost connection: Disconnected
+[14:28:28] [Server thread/INFO]: LEON_445 left the game
+[14:29:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
