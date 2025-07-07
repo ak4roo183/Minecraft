@@ -69,3 +69,6 @@
 [14:28:28] [Server thread/INFO]: LEON_445 lost connection: Disconnected
 [14:28:28] [Server thread/INFO]: LEON_445 left the game
 [14:29:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:49:30] [User Authenticator #5/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
+[14:49:31] [Server thread/INFO]: 9zqi[/172.26.155.55:49294] logged in with entity id 40076 at (-501640.2976711179, 92.15334663426411, -292669.0637857607)
+[14:49:31] [Server thread/INFO]: 9zqi joined the game
