@@ -72,3 +72,9 @@
 [14:49:30] [User Authenticator #5/INFO]: UUID of player 9zqi is 6279238b-041a-4ca2-acde-669be7d696eb
 [14:49:31] [Server thread/INFO]: 9zqi[/172.26.155.55:49294] logged in with entity id 40076 at (-501640.2976711179, 92.15334663426411, -292669.0637857607)
 [14:49:31] [Server thread/INFO]: 9zqi joined the game
+[14:56:57] [Server thread/INFO]: [9zqi: Set own game mode to Spectator Mode]
+[14:57:34] [Server thread/WARN]: 9zqi moved too quickly! -5.366086969850585,3.750000149011612,-8.59320530941477
+[14:57:54] [Server thread/INFO]: [9zqi: Set own game mode to Survival Mode]
+[14:58:47] [Server thread/INFO]: 9zqi lost connection: Disconnected
+[14:58:47] [Server thread/INFO]: 9zqi left the game
+[14:59:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
