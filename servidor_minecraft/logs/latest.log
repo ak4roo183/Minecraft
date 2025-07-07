@@ -1,25 +1,39 @@
-[15:20:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:20:37] [ServerMain/INFO]: Loaded 1370 recipes
-[15:20:37] [ServerMain/INFO]: Loaded 1481 advancements
-[15:20:37] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:20:37] [Server thread/INFO]: Loading properties
-[15:20:37] [Server thread/INFO]: Default game type: SURVIVAL
-[15:20:37] [Server thread/INFO]: Generating keypair
-[15:20:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:20:37] [Server thread/INFO]: Using epoll channel type
-[15:20:37] [Server thread/INFO]: Preparing level "world"
-[15:20:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:20:42] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[15:20:42] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[15:20:42] [Server thread/INFO]: Time elapsed: 5020 ms
-[15:20:42] [Server thread/INFO]: Done (5.321s)! For help, type "help"
-[15:21:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:53:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:53:25] [ServerMain/INFO]: Loaded 1370 recipes
+[13:53:25] [ServerMain/INFO]: Loaded 1481 advancements
+[13:53:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:53:25] [Server thread/INFO]: Loading properties
+[13:53:25] [Server thread/INFO]: Default game type: SURVIVAL
+[13:53:25] [Server thread/INFO]: Generating keypair
+[13:53:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:53:26] [Server thread/INFO]: Using epoll channel type
+[13:53:26] [Server thread/INFO]: Preparing level "world"
+[13:53:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:53:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:53:31] [Server thread/INFO]: Time elapsed: 4113 ms
+[13:53:31] [Server thread/INFO]: Done (4.621s)! For help, type "help"
+[13:54:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:02:43] [User Authenticator #1/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[14:02:44] [Server thread/INFO]: LEON_445[/172.26.65.195:53696] logged in with entity id 9 at (-3827.300000011921, -25.0, -1521.699999988079)
+[14:02:44] [Server thread/INFO]: LEON_445 joined the game
+[14:03:09] [User Authenticator #2/INFO]: UUID of player NoUR_455 is bd6daee0-4acb-46d3-9981-e7a6a0d344e6
+[14:03:10] [Server thread/INFO]: NoUR_455[/172.26.53.0:56065] logged in with entity id 419 at (-4435.925652468725, 64.0, -975.1067940822686)
+[14:03:10] [Server thread/INFO]: NoUR_455 joined the game
+[14:04:46] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:09:36] [Server thread/INFO]: LEON_445 lost connection: Disconnected
+[14:09:36] [Server thread/INFO]: LEON_445 left the game
+[14:11:53] [Server thread/INFO]: NoUR_455 fell from a high place
+[14:11:57] [User Authenticator #3/INFO]: UUID of player LEON_445 is 82823dcb-cf4c-4186-9988-e9e4d1adbfc9
+[14:11:58] [Server thread/INFO]: LEON_445[/172.26.65.195:53929] logged in with entity id 14513 at (-5574.716149880363, 72.0, -773.7059858815289)
+[14:11:58] [Server thread/INFO]: LEON_445 joined the game
+[14:12:08] [Server thread/INFO]: [LEON_445: Teleported LEON_445 to NoUR_455]
+[14:12:43] [Server thread/INFO]: [NoUR_455: Teleported NoUR_455 to -4829.500000, 64.000000, 2447.500000]
+[14:13:06] [Server thread/WARN]: NoUR_455 moved too quickly! -9.490664813290095,-2.6515661226034695,14.537753804705517
